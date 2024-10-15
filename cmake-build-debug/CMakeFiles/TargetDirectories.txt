@@ -1,0 +1,3 @@
+/Users/oleg/myfiles/ЛЭТИ/Прога/Доп прога/LAB1/cmake-build-debug/CMakeFiles/LAB1.dir
+/Users/oleg/myfiles/ЛЭТИ/Прога/Доп прога/LAB1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oleg/myfiles/ЛЭТИ/Прога/Доп прога/LAB1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
